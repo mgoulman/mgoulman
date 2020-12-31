@@ -1,8 +1,8 @@
-### Hi there, I'm Mouad goulman 👋
+### Hi there, I'm Mouad goulman ,Welcome to my Github profile👋
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=mgoulman)](https://github.com/mgoulman)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm Full Stack Web Developer, 1337 shcool (42Network)!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
