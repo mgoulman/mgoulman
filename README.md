@@ -1,18 +1,23 @@
 ### Hi there, I'm Mouad goulman ,Welcome to my Github profile👋
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=mgoulman)](https://github.com/mgoulman)
+
 
 ## I'm Full Stack Web Developer, 1337 shcool (42Network)!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+- 🔭 I have a bachelor's degree in mathematical and computer science.
+- 🌱 I'm currently studying at 1337 School.
+- 👯 I am a full stack web developer specializing in JavaScript frameworks.
+- 🥅 Passionate about the world of the web and new technologies.
+- ⚡  The ability to learn everything related to web development.
+
+Dynamic and creative student and software developer. Eager to support and join any dev team.
+My great aim is not knowledge at first place ,but action.
+“Tell me and I forget, teach me and I may remember, involve me and I learn.”
+
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=mgoulman)](https://github.com/mgoulman)
+
 
 ### Connect with me:
 
