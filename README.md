@@ -59,6 +59,10 @@ My great aim is not knowledge at first place ,but action.
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mgoulman&show_icons=true&theme=light&line_height=40" alt="mgoulman github stats"/>
 </a>
 
+<a href="https://github.com/mgoulman">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgoulman&theme=light" alt="Most Used Languages"/>
+</a>
+
 [twitter]: https://twitter.com/GoulmaneMouad
 [instagram]: https://www.instagram.com/moadgoulman/
 [linkedin]: https://www.linkedin.com/in/mouad-goulmane/
