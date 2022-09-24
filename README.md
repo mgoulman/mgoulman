@@ -33,10 +33,10 @@
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgoulman&theme=dracula" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgoulman&theme=github" />
   <br/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mgoulman&theme=dracula"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mgoulman&theme=dracula"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgoulman&theme=dracula"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mgoulman&theme=react"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mgoulman&theme=github"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mgoulman&theme=github"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgoulman&theme=github"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mgoulman&theme=github"/>
 </details>
