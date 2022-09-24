@@ -38,5 +38,5 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mgoulman&theme=dracula"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mgoulman&theme=dracula"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgoulman&theme=dracula"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mgoulman&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mgoulman&theme=react"/>
 </details>
