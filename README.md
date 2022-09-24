@@ -41,11 +41,11 @@
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgoulman&theme=github" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgoulman&theme=default" />
   <br/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mgoulman&theme=github"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mgoulman&theme=github"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgoulman&theme=github"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mgoulman&theme=default"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mgoulman&theme=default"/>
 </details>
 
 ---
