@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **react, redux and node.js**
 
-- 📫 How to reach me **moadgoulman@gmai.com**
+- 📫 How to reach me **moadgoulman@gmail.com**
 
 
 
